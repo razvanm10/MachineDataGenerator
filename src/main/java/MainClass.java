@@ -21,6 +21,5 @@ public class MainClass {
                     .getStatus());
             incrementSequenceNumber++;
         }
-
     }
 }
